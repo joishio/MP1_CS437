@@ -19,7 +19,6 @@ Part Three:
 If left most varible in te DefBoxes() list is of type soot.jimple.internal.JimpleLocal, it is a read action; If it is of type class soot.jimple.internal.JInstanceFieldRef or class soot.jimple.StaticFieldRef, it is a write action.
 
 Output for this section:
-
 Thread Thread-13 wrote static field <a1.HelloThread: int x>
 Thread Thread-13 read instance field <a1.HelloThread$TestThread: int y> of object Thread[Thread-13,5,Soot Threadgroup]
 Thread Thread-13 wrote instance field <a1.HelloThread$TestThread: int y> of object Thread[Thread-13,5,Soot Threadgroup]
