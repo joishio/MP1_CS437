@@ -20,9 +20,9 @@ If left most varible in te DefBoxes() list is of type soot.jimple.internal.Jimpl
 
 Output for this section:
 
-Thread Thread-13 wrote static field <a1.HelloThread: int x>
-Thread Thread-13 read instance field <a1.HelloThread$TestThread: int y> of object Thread[Thread-13,5,Soot Threadgroup]
-Thread Thread-13 wrote instance field <a1.HelloThread$TestThread: int y> of object Thread[Thread-13,5,Soot Threadgroup]
-Thread Thread-12 read instance field <a1.HelloThread$TestThread: int y> of object Thread[Thread-12,5,Soot Threadgroup]
-Thread Thread-12 read static field <a1.HelloThread: int x>
-Thread Thread-12 read static field <java.lang.System: java.io.PrintStream out>
+  Thread Thread-13 wrote static field <a1.HelloThread: int x>
+  Thread Thread-13 read instance field <a1.HelloThread$TestThread: int y> of object Thread[Thread-13,5,Soot Threadgroup]
+  Thread Thread-13 wrote instance field <a1.HelloThread$TestThread: int y> of object Thread[Thread-13,5,Soot Threadgroup]
+  Thread Thread-12 read instance field <a1.HelloThread$TestThread: int y> of object Thread[Thread-12,5,Soot Threadgroup]
+  Thread Thread-12 read static field <a1.HelloThread: int x>
+  Thread Thread-12 read static field <java.lang.System: java.io.PrintStream out>
